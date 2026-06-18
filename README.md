@@ -127,8 +127,7 @@ vendor-performance-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
-```
+ github.com/abhicodess/vendor-performances-analysis-sql-powerbi-python
 3. Load the CSVs and ingest into database:
 ```bash
 python scripts/ingestion_db.py
