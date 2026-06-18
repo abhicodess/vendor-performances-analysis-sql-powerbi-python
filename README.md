@@ -153,4 +153,10 @@ python scripts/get_vendor_summary.py
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+ <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
+**Abhay Varvate**  
+Data Analyst  
+📧 Email: sirabhi618@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhay-varvate-544256287)  
+🔗 [GitHub](https://github.com/abhicodess)
